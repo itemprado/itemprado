@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Iván Temprado-Ordiaz Quesada</h1>
 
-<!--
-**itemprado/itemprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+CTO of <a href="http://kaspy.es/">Kaspy</a><br />
+Building AI for finance.
+</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m the CTO of [Kaspy](http://kaspy.es/), where we’re building AI-powered finance opportunities for investors.
+
+
+## What We’re Building at Kaspy
+
+Kaspy helps small investors explore portfolios, track assets, and discover investment ideas in a simple and accessible way. It brings together portfolio visibility, asset insights, and investor-oriented tools so users can browse opportunities and make more informed decisions.
+
+## PROYECTO FUTURO
+
+------ helps job seekers, especially software engineers, navigate the job search more effectively with AI-powered resume building, personalized application tailoring, job matching, and interview prep.
+
+## Connect
+
+* Kaspy: [kaspy.es](http://kaspy.es/)
+* [LinkedIn](https://www.linkedin.com/in/temprado/)
+* [Instagram](https://www.instagram.com/ivnqt/)
