@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Iván Temprado-Ordiaz Quesada</h1>
 
 <p align="center">
-CTO of <a href="http://kaspy.es/">Kaspy</a><br />
+CTO of <a href="kaspy-nine.vercel.app/">Kaspy</a><br />
 Building AI for finance.
 </p>
 
 ## About Me
 
-I’m the CTO of [Kaspy](http://kaspy.es/), where we’re building AI-powered finance opportunities for investors.
+I’m the CTO of [Kaspy](http://kaspy-nine.vercel.app/), where we’re building AI-powered finance opportunities for investors.
 
 
 ## What We’re Building at Kaspy
@@ -20,6 +20,6 @@ Kaspy helps small investors explore portfolios, track assets, and discover inves
 
 ## Connect
 
-* Kaspy: [kaspy.es](http://kaspy.es/)
+* Kaspy: [kaspy.es](http://kaspy-nine.vercel.app/)
 * [LinkedIn](https://www.linkedin.com/in/temprado/)
 * [Instagram](https://www.instagram.com/ivnqt/)
