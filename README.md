@@ -20,6 +20,6 @@ Kaspy helps small investors explore portfolios, track assets, and discover inves
 
 ## Connect
 
-* Kaspy: [kaspy.es](http://kaspy-nine.vercel.app/)
+* [Kaspy AI](http://kaspy-nine.vercel.app/)
 * [LinkedIn](https://www.linkedin.com/in/temprado/)
 * [Instagram](https://www.instagram.com/ivnqt/)
