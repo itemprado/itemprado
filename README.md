@@ -7,7 +7,7 @@ Building AI for finance.
 
 ## About Me
 
-I’m the CTO of [Kaspy](http://kaspy-nine.vercel.app/), where we’re building AI-powered finance opportunities for investors.
+I’m the CTO of [Kaspy](http://kaspyai.vercel.app/), where we’re building AI-powered finance opportunities for investors.
 
 
 ## What We’re Building at Kaspy
@@ -20,6 +20,6 @@ Kaspy helps small investors explore portfolios, track assets, and discover inves
 
 ## Connect
 
-* [Kaspy AI](http://kaspy-nine.vercel.app/)
+* [Kaspy AI](http://kaspyai.vercel.app/)
 * [LinkedIn](https://www.linkedin.com/in/temprado/)
 * [Instagram](https://www.instagram.com/ivnqt/)
