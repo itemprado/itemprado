@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Iván Temprado-Ordiaz Quesada</h1>
 
 <p align="center">
-CTO of <a href="kaspy-nine.vercel.app/">Kaspy</a><br />
+CTO of <a href="kaspyai.vercel.app/">Kaspy</a><br />
 Building AI for finance.
 </p>
 
